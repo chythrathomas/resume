@@ -1,0 +1,23 @@
+
+.form label, 
+.form input {
+    display :block;
+    padding: .3rem;
+}
+.form label {
+    color:black;
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
+.form input {
+    width: 90%;
+    background-color:white;
+    margin-bottom: 1rem;
+   
+}
+.form textarea {
+    width: 90%;
+    background-color:white;
+    margin-bottom: 1rem;
+}

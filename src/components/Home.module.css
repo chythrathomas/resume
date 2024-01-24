@@ -1,0 +1,12 @@
+.button {
+    margin-right: 2rem;
+    height: 2.2rem;
+    width: 4rem;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.button:hover {
+    background-color: rgb(62, 59, 59);
+    color: wheat;
+}

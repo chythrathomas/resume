@@ -1,0 +1,8 @@
+.search {
+    margin:1rem;
+      height : 2rem;
+    width : 6rem;
+ }
+ .search:hover {
+     background-color: rgb(225, 213, 213);
+ }

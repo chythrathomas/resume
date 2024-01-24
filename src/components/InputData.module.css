@@ -1,0 +1,46 @@
+.form-invalid {
+    border: 1px solid red;
+}
+
+.form label, 
+.form input {
+    display :block;
+    padding: .3rem;
+}
+.form label {
+    color:black;
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
+.form input {
+    width: 90%;
+    background-color:white;
+    margin-bottom: 1rem;
+   
+}
+.form textarea {
+    width: 90%;
+    background-color:white;
+    margin-bottom: 1rem;
+}
+
+.form button {
+   font-weight: bold;
+align-items: center;
+display: block;
+margin: auto;
+width: 40%;
+margin-top: 20px;
+font-size: large;
+}
+.form button:hover {
+    background-color: rgb(143, 159, 153);
+}
+.form button:disabled {
+    cursor:not-allowed;
+}
+.form p {
+    color:red;
+    font-style: italic;
+}

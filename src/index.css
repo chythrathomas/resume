@@ -1,0 +1,13 @@
+
+html {
+ 
+  font-family: 'Times New Roman', Times, serif;
+}
+body {
+  margin: 0;
+  background-image: url("./images/images.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(3px);
+}
+
